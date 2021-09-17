@@ -44,3 +44,4 @@ class GetTaskSchema(BaseModel):
 
 class ListTasksSchema(BaseModel):
     tasks: List[GetTaskSchema]
+

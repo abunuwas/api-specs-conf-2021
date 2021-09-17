@@ -12,6 +12,6 @@ script:
 deploy:
   provider: heroku
   api_key:
-    secure: <ENCRYPTED_API_KEY>
+    secure: R83/JQS8zJ7GDPGo+xbSV/cOT2GR4NJ5p3L82hdGDYHUG9eY+OC7Mupr+kAO4sensL+cd59bbBd2vVpKkz/P7yhJF094ZaWvsYudGODyXr7+pTLjLuGK5HyVdEQcY07OVnfN58OynGAK9fKYx4Z+77QH82m4ni66x3hhDrU72UiRTWBC05KR6HU8f8hvZyTcbmY/8owXFpIzbITnRRv6YpFEERErelduqmlb321CY+qD5MXxo+XzcRyGJxlSln5HvP7l4u+aKtNhbcZnpywb3uiFKqP8frNLzzuQwVo7MsLrzWf0UI/75GR2nliTo+YlxWbZHo3tFWUvKJ4mz5OsZ2hSnW7DWxi0aU8ssBLewVQqdcnIb4wlGDbR/ez/27d39gYmPyFURPLT2JVXSTc+eER9KgRLf10sgo7+j+MHB18qjt+ZZ+mG8WfrVOkG5fEllIszrDndtkFS4cP4nrQR1uEPwQ2LLt0mBahD970uIGAoWnZS2Jm6FDfZp5od13PYkfcyVKvQvUwuwFUjGmS7aSzmBL1gYkGrJRavxWYgTMrXrtr62SYGvyr9K/jyRNDy1r+bOqcELA+SmzNYW2b12mALkDa4LXe22Lp/u34SldHqr5XrwwD3qGpxqHpiSgI1X0wY1eil2C/Fw+jk+IbLibZVXB6W8gyo6AIMgZYOCN4=
   app:
-    master: api-specs-conf-2021
+    master: very-simple-todo-api

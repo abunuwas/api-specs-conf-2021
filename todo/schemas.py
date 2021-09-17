@@ -34,23 +34,11 @@ class CreateTaskSchema(BaseModel):
     task: str
 
 
-class Priority1(Enum):
-    low = 'low'
-    medium = 'medium'
-    high = 'high'
-
-
-class Status1(Enum):
-    pending = 'pending'
-    progress = 'progress'
-    completed = 'completed'
-
-
 class GetTaskSchema(BaseModel):
     id: UUID
     created: datetime
-    priority: Priority1
-    status: Status1
+    priority: Priority
+    status: Status
     task: str
 
 

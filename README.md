@@ -11,6 +11,9 @@
 
 #### Author of [Microservice APIs in Python](https://www.manning.com/books/microservice-apis-in-python)
 
+- 35% discount code for the book: **ctwasc21**
+- Download two chapters of the book for free from this [link](https://www.microapis.io/resources/microservice-apis-in-python).
+
 ## How to work with this repo
 
 This repo provides examples for my talk at the **API Specifications Conference 2021**.
